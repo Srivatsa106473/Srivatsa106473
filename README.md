@@ -77,9 +77,9 @@ I design **production-ready embedded systems** and IoT devices.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Srivatsa106473&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Srivatsa106473&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srivatsa106473&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Srivatsa106473&layout=compact&theme=tokyonight"/>
 
 </p>
 
