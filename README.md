@@ -9,7 +9,7 @@
 <!-- NAVIGATION & CONNECTIONS HUB  -->
 # 📫 Connect With Me
 <p align="center">
-  <a href="https://stjewwxyxlgmuczkiyyv.supabase.co/storage/v1/object/sign/My_Resume/SarathChandra_EmbeddedEngineer.pdf?token=eyJraWQiOiIwOWIzY2ZiYy0wZjM5LTRhNTYtODUyNS0xYmRhZWM3NWQyYTYiLCJhbGciOiJIUzUxMiJ9.eyJ1cmwiOiJNeV9SZXN1bWUvU2FyYXRoQ2hhbmRyYV9FbWJlZGRlZEVuZ2luZWVyLnBkZiIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3OTI5NTU0NTEsImV4cCI6MjEwODMxNTQ1MX0.TXlr3CsPhfMKoojE0NHQ8Wzqgnu9dJxAWWlgWf-YVaVtxu7nhYzq9fc0qbXaFv_9S-wshH1iDtCvPeGaXB9aQg" target="_blank">
+  <a href="https://stjewwxyxlgmuczkiyyv.supabase.co/storage/v1/object/sign/My_Resume/SARATHCHANDRA_EmbeddedEngineer%20(1).pdf?token=eyJraWQiOiIwOWIzY2ZiYy0wZjM5LTRhNTYtODUyNS0xYmRhZWM3NWQyYTYiLCJhbGciOiJIUzUxMiJ9.eyJ1cmwiOiJNeV9SZXN1bWUvU0FSQVRIQ0hBTkRSQV9FbWJlZGRlZEVuZ2luZWVyICgxKS5wZGYiLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzkyOTU4MTU4LCJleHAiOjIxMDgzMTgxNTh9.gvaFGEgC9E-Dwc4u1TfrMUv-XDl8SxWOzgLUnz6XFOadEkSCZ0e3OLVCfpVO4fCewMEni3UH6K9Li6jWIg7eXA" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Yellow?style=for-the-badge&logo=Resume"/>
   </a>
   <a href="https://github.com/Srivatsa106473?tab=repositories" target="_blank">
