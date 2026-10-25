@@ -6,6 +6,25 @@
 
 ---
 
+<!-- NAVIGATION & CONNECTIONS HUB  -->
+# 📫 Connect With Me
+<p align="center">
+  <a href="https://Resume.com" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Yellow?style=for-the-badge&logo=Resume"/>
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub"/>
+  </a>
+  <a href="https://in.linkedin.com/in/sarath-chandra-83bb1b24a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:sarath.embedded@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=Email"/>
+  </a>
+</p>
+
+---
+
 <!-- CODING GIF -->
 
 <p align="center">
@@ -29,7 +48,13 @@
 ⚡ Embedded Firmware Engineer  
 📍 Chennai, India  
 
-I design **production-ready embedded systems** and IoT devices.
+I design **production-ready embedded systems**, IoT devices and work on **real embedded hardware products**, developing firmware, debugging hardware interactions, and integrating peripherals into production systems.
+
+I approach engineering with an **R&D mindset** — solving problems independently, building systems even when documentation or scope is limited.
+
+I believe:
+
+> Every engineer is capable of learning things independently through curiosity and experimentation.
 
 💡 My expertise includes:
 
@@ -50,6 +75,10 @@ I design **production-ready embedded systems** and IoT devices.
 | 🌭 Hot Dog Machine | BLE based cooking automation | BLE |
 | 💉 Medical OTA | Remote firmware updates | ESP32 |
 | 🔗 BLE Mesh Network | Wireless node networking | nRF52 |
+|🔋 LTO ESP32 Testing | Continuous firmware & power validation | ESP32|
+| 🔊 Payment Soundbox | LTE-driven transaction audio firmware | ESP32 |
+| 🔌 Programming Pad | I2C-controlled master/slave validation | ESP32 |
+| 🌐 LTE Debugging | Device-server API handshake validation | LTE |
 
 ---
 
@@ -64,12 +93,77 @@ I design **production-ready embedded systems** and IoT devices.
 <p align="center">
 
 <img src="https://img.shields.io/badge/ESP32-red?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/nRF52-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embedded%20C-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/I2C-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UART-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GPIO-grey?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LTE-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FreeRTOS-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/BLE-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MQTT-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/nRF52-orange?style=for-the-badge"/>
 
 </p>
+
+---
+
+# 👨‍🏫 Mentoring & Knowledge Sharing
+
+Guided **Poornima K & other interns** during their embedded internship.
+
+Training and mentoring included:
+
+• C, Arduino programming & other Embedded Firmware basics  
+• ESP32 firmware development  
+• Sensor interfacing techniques  
+• GPIO based hardware control  
+• ESP32 web server development  
+• Robotics and motor control basics  
+• Sensor integration (PIR, temperature, ultrasonic etc.)
+
+Helped her understand **embedded firmware fundamentals through practical experimentation and projects**.
+
+---
+
+# 🧰 Other Engineering Tools
+
+Many engineering tools were **self-learned independently during personal study time**, including weekends.
+
+### Hardware Design Tools
+
+• KiCAD – PCB schematic and layout design  
+• SolidWorks – Mechanical design exploration  
+
+### Automotive Tools
+
+• CANoe  
+• CANalyzer  
+
+These tools were explored through **self learning and experimentation outside regular project work**.
+
+---
+
+# 🏢 Client Interaction Experience
+
+Visited **client office in Delhi twice** to support engineering discussions.
+
+Activities included:
+
+• Understanding client expectations and technical requirements  
+• Helping clarify project scope and development direction  
+• Aligning firmware development with product goals  
+
+These interactions helped move the project forward with **clearer technical direction**.
+
+---
+
+# 🤝 Team Contribution
+
+• Assisted teammates when projects were blocked  
+• Helped debug firmware and hardware integration issues  
+• Supported development across multiple embedded systems  
+
+I believe engineering growth happens through **collaboration, curiosity, and continuous learning**.
 
 ---
 
@@ -119,24 +213,8 @@ I design **production-ready embedded systems** and IoT devices.
 
 ---
 
-# 📫 Connect With Me
-
 <p align="center">
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
+If you were interest, let's connect with each other on topics related to
 ⚡ Embedded Systems • IoT • Firmware Engineering
 
 </p>
