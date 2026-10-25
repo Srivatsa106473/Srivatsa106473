@@ -9,7 +9,7 @@
 <!-- NAVIGATION & CONNECTIONS HUB  -->
 # 📫 Connect With Me
 <p align="center">
-  <a href="https://Resume.com" target="_blank">
+  <a href="https://stjewwxyxlgmuczkiyyv.supabase.co/storage/v1/object/sign/My_Resume/SarathChandra_EmbeddedEngineer.pdf?token=eyJraWQiOiIwOWIzY2ZiYy0wZjM5LTRhNTYtODUyNS0xYmRhZWM3NWQyYTYiLCJhbGciOiJIUzUxMiJ9.eyJ1cmwiOiJNeV9SZXN1bWUvU2FyYXRoQ2hhbmRyYV9FbWJlZGRlZEVuZ2luZWVyLnBkZiIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3OTI5NTU0NTEsImV4cCI6MjEwODMxNTQ1MX0.TXlr3CsPhfMKoojE0NHQ8Wzqgnu9dJxAWWlgWf-YVaVtxu7nhYzq9fc0qbXaFv_9S-wshH1iDtCvPeGaXB9aQg" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Yellow?style=for-the-badge&logo=Resume"/>
   </a>
   <a href="https://github.com" target="_blank">
@@ -218,3 +218,25 @@ If you were interest, let's connect with each other on topics related to
 ⚡ Embedded Systems • IoT • Firmware Engineering
 
 </p>
+
+---
+
+<!-- NAVIGATION & CONNECTIONS HUB  -->
+# 📫 Connect With Me
+<p align="center">
+  <a href="https://stjewwxyxlgmuczkiyyv.supabase.co/storage/v1/object/sign/My_Resume/SarathChandra_EmbeddedEngineer.pdf?token=eyJraWQiOiIwOWIzY2ZiYy0wZjM5LTRhNTYtODUyNS0xYmRhZWM3NWQyYTYiLCJhbGciOiJIUzUxMiJ9.eyJ1cmwiOiJNeV9SZXN1bWUvU2FyYXRoQ2hhbmRyYV9FbWJlZGRlZEVuZ2luZWVyLnBkZiIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3OTI5NTU0NTEsImV4cCI6MjEwODMxNTQ1MX0.TXlr3CsPhfMKoojE0NHQ8Wzqgnu9dJxAWWlgWf-YVaVtxu7nhYzq9fc0qbXaFv_9S-wshH1iDtCvPeGaXB9aQg" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Yellow?style=for-the-badge&logo=Resume"/>
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub"/>
+  </a>
+  <a href="https://in.linkedin.com/in/sarath-chandra-83bb1b24a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:sarath.embedded@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=Email"/>
+  </a>
+</p>
+
+---
+
